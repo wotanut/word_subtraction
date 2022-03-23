@@ -1,0 +1,15 @@
+/Users/sam/school C#/word_subtraction/obj/Debug/net5.0/word_subtraction.csproj.AssemblyReference.cache
+/Users/sam/school C#/word_subtraction/obj/Debug/net5.0/word_subtraction.GeneratedMSBuildEditorConfig.editorconfig
+/Users/sam/school C#/word_subtraction/obj/Debug/net5.0/word_subtraction.AssemblyInfoInputs.cache
+/Users/sam/school C#/word_subtraction/obj/Debug/net5.0/word_subtraction.AssemblyInfo.cs
+/Users/sam/school C#/word_subtraction/obj/Debug/net5.0/word_subtraction.csproj.CoreCompileInputs.cache
+/Users/sam/school C#/word_subtraction/bin/Debug/net5.0/word_subtraction.deps.json
+/Users/sam/school C#/word_subtraction/bin/Debug/net5.0/word_subtraction.runtimeconfig.json
+/Users/sam/school C#/word_subtraction/bin/Debug/net5.0/word_subtraction.runtimeconfig.dev.json
+/Users/sam/school C#/word_subtraction/bin/Debug/net5.0/word_subtraction.dll
+/Users/sam/school C#/word_subtraction/bin/Debug/net5.0/ref/word_subtraction.dll
+/Users/sam/school C#/word_subtraction/bin/Debug/net5.0/word_subtraction.pdb
+/Users/sam/school C#/word_subtraction/obj/Debug/net5.0/word_subtraction.dll
+/Users/sam/school C#/word_subtraction/obj/Debug/net5.0/ref/word_subtraction.dll
+/Users/sam/school C#/word_subtraction/obj/Debug/net5.0/word_subtraction.pdb
+/Users/sam/school C#/word_subtraction/obj/Debug/net5.0/word_subtraction.genruntimeconfig.cache
